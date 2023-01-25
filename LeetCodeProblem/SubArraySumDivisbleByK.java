@@ -1,4 +1,4 @@
-package com.LeetCodeProblem;
+package com.LeetCodeProblem.POTD;
 
 import java.util.Scanner;
 
